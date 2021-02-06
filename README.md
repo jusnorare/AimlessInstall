@@ -1,2 +1,4 @@
 # AimlessInstall
-AimlessServer Installing
+AimlessServer Installer
+
+Aimless Installer
